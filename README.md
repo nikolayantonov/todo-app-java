@@ -12,7 +12,7 @@
 
 # S3
 
-[!alt text](https://i0.wp.com/codeandcoffee.us/wp-content/uploads/2018/07/s3.png?fit=387%2C375)
+![alt text](https://i0.wp.com/codeandcoffee.us/wp-content/uploads/2018/07/s3.png?fit=387%2C375)
 
 * We create the **S3 Bucket for artifacts**
 
@@ -40,7 +40,7 @@ $ aws cloudformation deploy --template-file $OUTPUT_FILE --stack-name $STACK_NAM
 
 * Delete the S3 Bucker we've created for the artifacts
 ```bash
-$ aws s3api delet-bucket --bucket ci-cd-java --region eu-west-2
+$ aws s3api delete-bucket --bucket ci-cd-java --region eu-west-2
 ```
 * Delete the stack created in CloudFormation
 #
