@@ -12,8 +12,6 @@
 
 # S3
 
-![alt text](https://i0.wp.com/codeandcoffee.us/wp-content/uploads/2018/07/s3.png?fit=387%2C375)
-
 * We create the **S3 Bucket for artifacts**
 
 ```bash
