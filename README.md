@@ -36,6 +36,14 @@ $ aws s3api delete-bucket --bucket java-codepipeline --region eu-west-2
 ```
 * Delete CloudFormation stack
 
+# For Codepipeline EKS deployments:
+
+Configure IAM role:
+https://eksworkshop.com/codepipeline/role/
+
+Update kubectl configmap:
+https://eksworkshop.com/codepipeline/configmap/
+
 
 # Academic resources
 
