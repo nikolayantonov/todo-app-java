@@ -1,0 +1,48 @@
+{
+  "origin": "Den Haag Centraal",
+  "destination": "Amsterdam RAI",
+  "availableRoutes": [
+    {
+      "startTime": null,
+      "arrivalTime": null,
+      "duration": 62,
+      "numberOfLegs": 2
+    },
+    {
+      "startTime": null,
+      "arrivalTime": null,
+      "duration": 48,
+      "numberOfLegs": 3
+    },
+    {
+      "startTime": null,
+      "arrivalTime": null,
+      "duration": 62,
+      "numberOfLegs": 2
+    },
+    {
+      "startTime": null,
+      "arrivalTime": null,
+      "duration": 63,
+      "numberOfLegs": 2
+    },
+    {
+      "startTime": null,
+      "arrivalTime": null,
+      "duration": 62,
+      "numberOfLegs": 2
+    },
+    {
+      "startTime": null,
+      "arrivalTime": null,
+      "duration": 49,
+      "numberOfLegs": 2
+    },
+    {
+      "startTime": null,
+      "arrivalTime": null,
+      "duration": 49,
+      "numberOfLegs": 2
+    }
+  ]
+}
