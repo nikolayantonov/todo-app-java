@@ -18,7 +18,7 @@ phases:
       #- npm prune --production
       #- cd ..
       - echo Build started on `date`
-      - mvn clean install
+      - mvn clean package
   post_build:
     commands:
       - echo Build completed on `date`
